@@ -1,9 +1,9 @@
 {
-    "name": "Dark Matter",
-    "description": "A cold, dark & frosty theme.",
+    "name": "Nebula",
+    "description": "A cold, dark & spacy theme.",
     "version": "3.0",
-    "author": "Tropical#8908, Hammock#3110",
-    "theme": "DarkMatter.theme.css",
+    "author": "darkshark9k ,Tropical#8908, Hammock#3110",
+    "theme": "Nebula.theme.css",
     "consent": ["ext_listing"],
     "license": "MIT"
 }
